@@ -18,4 +18,4 @@ Complete Machine Learning pipeline for BMW stock/financial data analysis includi
 | Machine Learning | Scikit-learn |
 | Statistics | Statsmodels |
 
-##  Project Structure
+##  Update the file path
